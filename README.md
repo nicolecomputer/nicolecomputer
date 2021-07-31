@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @nicolecomputer
+- 🌱 I’m currently learning golang, swift ui,

@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @nicolecomputer
-- 🌱 I’m currently learning golang, swift ui,
+- 🌱 I’m currently learning golang and swift ui
+-  I have a website at [nicole.computer](http://www.nicole.computer)

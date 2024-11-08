@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Nicole
-- 🌱 I’m currently learning golang and swift ui
+- 🌱 You can check out my [now page](https://notes.nicole.computer/now)
